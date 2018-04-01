@@ -1,0 +1,62 @@
+Dependencies:
+
+sentiment_analysis.py: Contains code to calculate sentiment using SentiStrength
+	Dependencies: 
+		- SentiStrength (http://sentistrength.wlv.ac.uk/#Download)
+		- shlex
+		- subprocess
+		- os
+		- re
+
+aspect_generator.py: Contains code to perform generation of aspects from reviews.
+	Dependencies:
+		- opinion_aspect_extraction.py
+		- pandas
+		- nltk
+
+data_extraction.py: Filters out relevant Amazon reviews
+	Dependencies:
+		- reviews_Grocery_and_Gourmet_Food_5.json
+		- reviews_Health_and_Personal_Care_5.json
+		- meal_replacement_products_asin.csv
+		- pandas
+		- json
+
+opinion_aspect_analysis.py: Main. Tokenizes reviews, performs sentiment analysis, extracts aspect opinion pairs and organizes data into tabular format.
+	Dependencies:
+		- opinion_apsect_extraction.py
+		- sentiment_analysis.py
+		- pandas
+		- json
+		- csv
+		- product-features part3.csv
+
+opinion_aspect_extraction.py: Performs the aspect-opinion pair extraction
+	Dependencies:
+		- derived_word_forms.py
+		- stanford-corenlp-3.6.0.jar
+		- stanford-corenlp-full2015-12-09/stanford-corenlp-3.6.0-models.jar
+			http://stanfordnlp.github.io/CoreNLP/
+		- nltk
+
+derived_word_forms.py: Transforms words into different parts of speech. Ex: verbs into noun versions.
+	Dependencies:
+		- nltk
+
+clean_reviews_to_opinions.py: Find stem words and lemma words of extracted aspects and opinions in a dataset
+	Dependencies:
+		- opinion_aspect_extraction.py
+		- pandas
+		- numpy
+		- sys
+		- nltk
+
+reviews_Grocery_and_Gourmet_Food_5.json: Dataset containing Amazon.com reviews for the Grocery and Gourmet Food section
+
+reviews_Health_and_Personal_Care_5.json: Dataset containing Amazon.com reviews for the Health and Personal Care section
+
+amazon_reviews_meal_replacement.csv: Dataset containing Amazon.com reviews for the best selling meal replacement products (as specified in meal_replacement_products_asin.csv)
+
+product_features_part3.csv: Dataset containing extracted aspects used for aspect-opinion pair extraction.
+
+reviews_to_opinions.csv: Raw dataset containing aspects and extracte opinions.

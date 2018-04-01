@@ -1,0 +1,14 @@
+Dependencies:
+
+data_collection.py: Collects data form social media channel.
+	Dependencies:
+		- json
+		- apiclient
+		- pandas
+		- csv
+		- os
+		- oauth2client
+
+youtube_comments.csv: Dataset containing Youtube Activity
+
+youtube_reviews_to_opinions.csv: Dataset containing Youtube activity and extracted aspect-opinion pairs

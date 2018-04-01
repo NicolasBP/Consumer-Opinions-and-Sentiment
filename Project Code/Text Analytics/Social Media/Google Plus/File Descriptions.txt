@@ -1,0 +1,16 @@
+Dependencies:
+
+data_collection.py: Collects data form social media channel.
+	Dependencies:
+		- httplib2
+		- json
+		- apiclient
+		- pandas
+		- csv
+		- os
+		- nltk
+		- BeautifulSoup
+
+google_plus_activity.csv: Dataset containing Google Plus Activity
+
+google_plus_reviews_to_opinions.csv: Dataset containing Google Plus activit and extracted aspect-opinion pairs

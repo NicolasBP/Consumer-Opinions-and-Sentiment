@@ -1,0 +1,19 @@
+Dependencies:
+
+twitter_code.py: Collects data form social media channel.
+	Dependencies:
+		- twitter
+		- json
+		- io
+		- pandas
+		- csv
+		- os
+		- nltk
+		- matplotlib
+		- numpy
+		- networkx
+		- sys
+
+tweets.csv: Dataset containing Twitter Activity
+
+twitter_reviews_to_opinions.csv: Dataset containing Twitter activity and extracted aspect-opinion pairs

@@ -1,0 +1,683 @@
+review_id,feature,opinion,sentiment,token,engagement
+20,0,review,soylent,7.82e+17,0,@keanerie: the soylent review the world has been waiting for
+25,0,bag,#SiliconValley,7.82e+17,0,@oneminuteapp: #SiliconValley hipster bag 101 - @soylent #Coffeeist
+26,2,bag,#SiliconValley,7.82e+17,0,#SiliconValley hipster bag 101 - @soylent #Coffeeist
+28,0,bottle,2.0,7.82e+17,1,@soylent appreciate you getting rid of the foil under the 2.0 bottle caps
+29,0,taste,good,7.82e+17,1,"Ok, this product from @soylent actually tastes good."
+35,0,bottle,2.0,7.82e+17,2,I wish the UX of opening a @Soylent 2.0 bottle were more enjoyable
+35,0,bottle,@Soylent,7.82e+17,2,I wish the UX of opening a @Soylent 2.0 bottle were more enjoyable
+63,0,meal,next,7.81e+17,0,(only did this bc i want my math professor to judge me)I'm making my next meal a Soylent!
+75,1,people,@tedotte,7.81e+17,0,@tedotte @soylent people need to wake up!
+77,0,powder,new,7.8e+17,0,So the new powder has Xanthin Gum.
+92,1,purchase,gon,7.8e+17,0,@KristyT gonna buy you a big box of Soylent as your housewarming gift
+93,1,thing,best,7.8e+17,1,@JPManga Soylent replaces something necessary (food) with next best thing.
+93,1,thing,next,7.8e+17,1,@JPManga Soylent replaces something necessary (food) with next best thing.
+109,0,thing,messed,7.84388e+17,2,the whole joylent / soylent thing is pretty messed up / hilarious
+109,0,thing,hilarious,7.84388e+17,2,the whole joylent / soylent thing is pretty messed up / hilarious
+111,1,kind,different,7.84274e+17,2,"Try joylent though, their vegan option has a different kind of"
+119,0,etc,soylent/joylent,7.8405e+17,2,@neurosaurus i do soylent/joylent etc but honestly i get the powder and mix it myself?
+120,0,breakfast,first,7.83981e+17,2,Eating my first #joylent breakfast.
+120,0,taste,sweet,7.83981e+17,1,"It's not bad, but the best part is the sweet, sweet taste of ultimate laziness."
+123,4,breakfast,replacer,7.83917e+17,2,trying out this joylent meal replacer for my breakfast.... it's real cute
+124,0,thing,joylent,7.83818e+17,2,@werewoolfs @vilevelns what is this joylent thing
+126,2,meals,normal,7.8381e+17,0,(1-2 normal meals because family)
+159,2,protein,Ambronite,7.85e+17,-1,Ambronite Meal replacement protein shake.
+159,2,taste,better,7.85e+17,0,Maybe better taste than soylent @robmay?
+195,0,taste,delicious,7.84e+17,2,The new taste is simply delicious
+196,0,trier,uC,7.84e+17,-1,"Madonna is shaking it, and you should try too uC"
+199,2,taste,new,7.83e+17,2,The new taste is simply delicious #supermeal
+199,2,taste,delicious,7.83e+17,2,The new taste is simply delicious #supermeal
+213,1,taste,great,7.82e+17,2,Ambronite v5 tastes great.
+275,1,foods,healthy,7.82e+17,1,Trying to win a competition from @QuealEU.Interested in what complete healthy foods can do for you?
+275,1,foods,complete,7.82e+17,1,Trying to win a competition from @QuealEU.Interested in what complete healthy foods can do for you?
+276,1,kind,usual,7.82e+17,1,@QuealEU not the usual 3 meal kind of guy here but I do have at least 1 Queal and am always looking forward to that one
+277,1,breakfast,awesome,7.82e+17,2,Queal makes an awesome breakfast - Kala
+279,1,foods,healthy,7.82e+17,1,Interested what complete healthy foods can do for you?
+279,1,foods,complete,7.82e+17,1,Interested what complete healthy foods can do for you?
+280,2,foods,healthy,7.82e+17,1,Interested in what complete healthy foods can do for you?Check out #queal
+280,2,foods,complete,7.82e+17,1,Interested in what complete healthy foods can do for you?Check out #queal
+281,1,foods,healthy,7.82e+17,1,Trying to win a competition from @QuealEU.Interested in what complete healthy foods can do for you?
+281,1,foods,complete,7.82e+17,1,Trying to win a competition from @QuealEU.Interested in what complete healthy foods can do for you?
+283,1,foods,healthy,7.82e+17,1,Trying to win a competition from @QuealEU Interested in what complete healthy foods can do for you?
+283,1,foods,complete,7.82e+17,1,Trying to win a competition from @QuealEU Interested in what complete healthy foods can do for you?
+285,1,foods,healthy,7.82e+17,1,Interested in what complete healthy foods can do for you?
+285,1,foods,complete,7.82e+17,1,Interested in what complete healthy foods can do for you?
+286,1,foods,healthy,7.82e+17,1,Interested in what complete healthy foods can do for you?Check out #queal
+286,1,foods,complete,7.82e+17,1,Interested in what complete healthy foods can do for you?Check out #queal
+288,1,foods,healthy,7.82e+17,1,Interested in what complete healthy foods can do for you?
+288,1,foods,complete,7.82e+17,1,Interested in what complete healthy foods can do for you?
+291,0,products,eensive,7.82e+17,0,@BeauxCrook hi keto products will most likely be more eensive - pricing not finalised yet
+294,1,people,busy,7.82e+17,2,"btw, for you busy people who want food with good nutrients, I love Mealsquares."
+294,1,nutrients,good,7.82e+17,2,"btw, for you busy people who want food with good nutrients, I love Mealsquares."
+298,0,nutrients,super,7.85e+17,1,"meal replacement shake packed with 23 super nutrients, 13"
+314,0,meal,Per,7.85e+17,0,Per meal!
+341,0,protein,great,7.84e+17,1,Looking for a great protein shake mix/meal replacement?
+341,0,protein,14g,7.84e+17,0,5g net carbs 14g protein.
+343,1,value,excellent,7.84e+17,0,Meal Replacement Shake Low #Calories #Fat High #Protein #Fibre excellent value for money visit
+373,0,taste,amazing,7.84e+17,2,Jam packed with nutrition and taste amazing!
+382,0,meal,myDaily,7.84e+17,-1,@BhookaSaand: #FoodBlog #FoodReview Benefits of Meal Replacement Shake from myDaily meal -
+497,0,supplements,popular,7.96e+17,2,The most popular meal replacement supplements on the market have got to be protein drinks #PFL90
+497,0,drinks,#PFL,7.96e+17,2,The most popular meal replacement supplements on the market have got to be protein drinks #PFL90
+503,0,bars,sad,7.97129e+17,-3,Meal replacement protein bars are a sad existence
+503,0,bars,Meal,7.97129e+17,-3,Meal replacement protein bars are a sad existence
+513,0,bar,salted,7.96276e+17,0,Our nutty salted caramel meal bar gets us through #HumpDay every time.
+513,0,bar,caramel,7.96276e+17,0,Our nutty salted caramel meal bar gets us through #HumpDay every time.
+513,0,bar,nutty,7.96276e+17,0,Our nutty salted caramel meal bar gets us through #HumpDay every time.
+514,0,bars,healthy,7.96187e+17,2,"@_betterbynature: These bars are so healthy, so delicious."
+514,0,bars,delicious,7.96187e+17,2,"@_betterbynature: These bars are so healthy, so delicious."
+515,1,bars,healthy,7.96185e+17,2,"These bars are so healthy, so delicious."
+515,1,bars,delicious,7.96185e+17,2,"These bars are so healthy, so delicious."
+525,0,bars,quick,7.95839e+17,-1,Doctors weigh in on diet shakes and replacement bars: Meal replacement bars and shakes can be a quick solution on a
+525,0,bars,quick,7.95839e+17,-1,Doctors weigh in on diet shakes and replacement bars: Meal replacement bars and shakes can be a quick solution on a
+527,0,people,puke,7.95664e+17,-2,GMO meal replacement SOYLENT bars make people puke
+528,0,bars,quick,7.95624e+17,0,"Meal replacement bars and shakes can be a quick solution on a busy morning, but are they good for you?"
+528,0,bars,Meal,7.95624e+17,0,"Meal replacement bars and shakes can be a quick solution on a busy morning, but are they good for you?"
+529,0,bars,quick,7.95611e+17,0,"Meal replacement bars and shakes can be a quick solution on a busy morning, but are they good for you?"
+529,0,bars,Meal,7.95611e+17,0,"Meal replacement bars and shakes can be a quick solution on a busy morning, but are they good for you?"
+531,3,people,puke,7.95521e+17,-2,GMO meal replacement SOYLENT bars make people puke
+538,0,bars,delicious,7.94978e+17,2,"Sat, Nov 5 In-Store Product DEMO @WesterlyMarket 3-6pm ~ @NutribarCanada delicious meal replacement #protein bars"
+538,0,bars,3-6pm,7.94978e+17,2,"Sat, Nov 5 In-Store Product DEMO @WesterlyMarket 3-6pm ~ @NutribarCanada delicious meal replacement #protein bars"
+544,0,snack,healthy,7.94507e+17,0,NUTRITONAL BARS Healthy meal replacement fuel for fitness just a healthy snack turn it into a dessert with yo
+547,1,loss,Weight,7.94244e+17,-2,Weight loss with meal replacement shakes and meal replacement bars -
+549,0,case,various,7.9396e+17,0,I keep protein bars in various flavours in case of an emergency.
+553,5,case,various,7.93959e+17,0,I keep protein bars in various flavours in case of an emergency.
+555,0,protein,pure,7.9724e+17,0,I found out why I was lightheaded; I was drinking protein shakes with no complete nutritional value so it was pure protein and no food
+555,0,value,nutritional,7.9724e+17,0,I found out why I was lightheaded; I was drinking protein shakes with no complete nutritional value so it was pure protein and no food
+555,0,protein,pure,7.9724e+17,0,I found out why I was lightheaded; I was drinking protein shakes with no complete nutritional value so it was pure protein and no food
+559,0,protein,5/day,7.97221e+17,-1,@TinaKayxxx: Sometimes I get more than 5/day protein shakes!
+565,1,protein,@GoddessEm_,7.97205e+17,-1,@GoddessEm_ protein shakes
+567,0,milk,almond,7.97203e+17,0,"my protein shakes contain like 3 scoops of protein powder, peanut butter, almond milk, yogurt and bananas."
+570,0,protein,high,7.97199e+17,-1,"@foodyste1: Drink two high protein, low carb shakes a day with fiber and omega-3s added."
+570,0,carb,low,7.97199e+17,-1,"@foodyste1: Drink two high protein, low carb shakes a day with fiber and omega-3s added."
+574,0,protein,@jaypipes,7.97196e+17,-1,@jaypipes Pre surgery conversion to protein shakes yogurt string cheese and oatmeal.
+574,0,anything,same,7.97196e+17,-1,Post surgery...same place anything in low portions...
+581,1,protein,pre-made,7.97183e+17,-1,Newests Arbonne items I can't live without: chocolate pre-made protein shakes and CONCEALER!
+585,3,thing,disgusting,7.97173e+17,-3,The most disgusting thing has to be clumpy protein shakes
+587,2,protein,enough,7.97171e+17,-1,"just make sure you're getting enough protein, i tried nutrition shakes"
+589,0,drink,soft,7.9717e+17,-1,"In 48 hours I've drank 8 cups of coffee, 3 cups of tea, 1 soft drink, 2 protein shakes and 4 litres of water"
+600,0,supplement,developed,7.97164e+17,1,"#Pure Protein Shakes were developed as a great-tasting way to supplement your protein needs, and provide"
+601,0,protein,enough,7.97164e+17,0,@StuGarnersBro didn't drink enough protein shakes mate
+606,1,protein,more,7.97157e+17,-1,@_Nichita you should try eating more protein or drink those shakes that have 75 grams of protein.
+606,1,protein,more,7.97157e+17,-1,@_Nichita you should try eating more protein or drink those shakes that have 75 grams of protein.
+610,0,protein,healthy,7.97153e+17,1,Check these awesome healthy protein shakes.
+610,0,protein,awesome,7.97153e+17,1,Check these awesome healthy protein shakes.
+615,0,protein,non-dairy,7.97151e+17,1,Delighted to have @Go_Veggemo as a new non-dairy option for my protein shakes!
+615,0,protein,new,7.97151e+17,1,Delighted to have @Go_Veggemo as a new non-dairy option for my protein shakes!
+624,1,protein,hot,7.97135e+17,-1,@alex question -- why are drinking hot protein shakes?
+625,8,protein,more,7.97135e+17,0,"Also, they should have more protein per serving so you can drink less hot garb."
+629,1,protein,low,7.9713e+17,-1,@Jssiecabanroff when Josh was having issues because of low protein I'd make him protein shakes.
+629,1,protein,low,7.9713e+17,-1,@Jssiecabanroff when Josh was having issues because of low protein I'd make him protein shakes.
+633,0,training,lees,7.97125e+17,-1,"@RyanStanley456: 2 weeks into lees training, gym and protein shakes finally paying off"
+634,4,weight,damn,7.97125e+17,0,Hopefully I gain some damn weight
+636,0,protein,Need,7.97122e+17,-1,Need protein shakes for gains #KohlsBestGiftEverSweepstakes
+645,0,protein,delicious,7.97114e+17,1,@fitfoodielondon: Shaking our money makers & our delicious @MissFitsNutri protein shakes post some @fitssi Friday
+646,1,people,#IRL,7.97114e+17,-1,"#IRL #american mall people are #coffee drinkers, and or #tea, #soda, #water, #protein shakes etc."
+646,1,people,#coffee,7.97114e+17,-1,"#IRL #american mall people are #coffee drinkers, and or #tea, #soda, #water, #protein shakes etc."
+650,8,protein,Done,7.97111e+17,-1,Done spending money for protein shakes.
+652,0,protein,extra,7.9711e+17,0,I've heard the Ensure extra protein shakes are good too.
+654,2,protein,skinny,7.97108e+17,-1,"When skinny guys talk about drinking protein shakes and being a ""gymLAD"""
+661,1,protein,fat,7.97098e+17,-1,"Protein shakes, high protein low fat."
+664,1,protein,delicious,7.97093e+17,1,Shaking our money makers & our delicious @MissFitsNutri protein shakes post some @fitssi Friday
+668,30,training,lees,7.9708e+17,-1,"2 weeks into lees training, gym and protein shakes finally paying off"
+681,0,bags,Smoothie,7.97063e+17,-1,"Smoothie prep bags in the freezer make for quick, convenient and healthy protein shakes!"
+681,0,protein,quick,7.97063e+17,-1,"Smoothie prep bags in the freezer make for quick, convenient and healthy protein shakes!"
+681,0,protein,convenient,7.97063e+17,-1,"Smoothie prep bags in the freezer make for quick, convenient and healthy protein shakes!"
+681,0,protein,healthy,7.97063e+17,-1,"Smoothie prep bags in the freezer make for quick, convenient and healthy protein shakes!"
+692,0,protein,buy,7.97042e+17,0,Best brand to buy protein shakes ?
+693,0,protein,many,7.97041e+17,-1,@racingblogger how many protein shakes should one consume daily?
+694,0,water,SOOOO,7.9704e+17,0,Protein Shakes are SOOOO much better with water then almond milk!
+697,0,protein,@CrucialFood,7.97033e+17,-1,Members and non members come in and try one of our @CrucialFood Cafe protein shakes too.... #healthychoices
+698,1,supplements,@DamnnDaniyel,7.97032e+17,0,@DamnnDaniyel bro koi diet wagera lete ap like supplements or any protein shakes ?
+706,0,protein,new,7.96991e+17,2,Loving the new #pret protein shakes.
+709,0,work,hard,7.96984e+17,0,@ArthursBoys: Today we've lost sight of hard work in running.
+710,0,problem,not hard,7.96984e+17,-1,@Evil_Ej1 @RoachyD i take my protein shakes lol i shouldn't have such a hard problem
+719,0,protein,Late,7.96966e+17,-1,@superdave_972: Late night protein shakes n #overwatch #cgn #twitchonline #supprtsmallstreamers Come chat!
+730,2,drinks,dietary,7.96943e+17,-1,"Nothing but protein shakes, dietary drinks, water, salads and grilled salmon and chicken from now on"
+732,1,protein,crappy,7.96937e+17,-3,I hate how crappy protein shakes make me feel
+736,1,protein,@jamescharles,7.96925e+17,-1,@jamescharles protein shakes through a straw
+739,2,workouts,@aleciaollison,7.96919e+17,-1,@aleciaollison strength building workouts plus protein shakes
+739,2,protein,@aleciaollison,7.96919e+17,-1,@aleciaollison strength building workouts plus protein shakes
+749,1,food,middle,7.96908e+17,0,I don't even need protein shakes thanks to middle eastern food
+749,1,food,eastern,7.96908e+17,0,I don't even need protein shakes thanks to middle eastern food
+751,4,protein,Make,7.96907e+17,-1,Make protein shakes the night before & freeze them in mason jars.
+751,4,snack,quick,7.96907e+17,0,"Take one with u 2 work for a quick, cold & tasty snack or meal."
+751,4,snack,cold,7.96907e+17,0,"Take one with u 2 work for a quick, cold & tasty snack or meal."
+765,0,bottle,whole,7.9567e+17,0,@BmoreOrganic: Mix 1/2 B'more Organic skyr into your own protein smoothie recipe or drink the whole bottle for a meal replacement!
+768,2,bottle,whole,7.95611e+17,0,Mix 1/2 B'more Organic skyr into your own protein smoothie recipe or drink the whole bottle for a meal replacement!
+773,1,meal,natural,7.95086e+17,-1,Wholefood Protein Shake Taster Box (6 x 40g) Ideal for weight loss & post exercise recovery 100% natural meal
+789,0,supplements,few,7.97241e+17,0,You'll want to consider a few of these supplements.
+797,0,dose,#MD,7.97239e+17,0,Chat with your #MD before you dose!
+798,0,proteins,great,7.97239e+17,2,"Come to #TotalNutrition #CoralGables from 10:00 a.m. and find a great variety of proteins, supplements and vitamins for you"
+800,0,supplements,mitigated,7.97238e+17,0,I picked up some mitigated feed supplements from the store.
+803,1,supplements,testosterone,7.97238e+17,0,"At the pharmacy, and I think I'm gonna look for testosterone supplements or something."
+805,0,supplements,favorite,7.97237e+17,2,One of my favorite supplements is #Maca This is wonderful C1
+806,0,vitamins,#NatureMadeAtWalmart,7.97237e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+810,0,supplements,beachbody,7.97235e+17,2,I love beachbody performance supplements!
+811,0,energy,high,7.97235e+17,2,@muscle_fitness: Obtain superior sculpted tone and high energy with @StrongSupps Top 10 Fat Burners #sponsored h
+816,0,supplements,#these,7.97235e+17,1,Look up #these #particular supplements for well being:
+822,0,supplements,new,7.97234e+17,0,@LckptAthletic: Make sure to stop by and check out the new supplements that came in!
+823,1,supplements,new,7.97234e+17,0,Make sure to stop by and check out the new supplements that came in!
+824,0,supplements,#recommended,7.97234e+17,0,#Check out my #recommended supplements for health condition: U
+827,1,anything,best,7.97233e+17,1,Never Settle for anything but the best - #1stPhorm makes the Best Supplements in the business -
+828,0,trier,like,7.97233e+17,1,Would you like to try a healthy #diet?
+831,0,workouts,hard,7.97233e+17,0,INVEST into hard workouts and dedication to healthy
+832,1,supplements,free,7.97232e+17,0,@Cmatch34 Any time I can get free supplements and stuff I get pumped.
+849,0,vitamins,#NatureMadeAtWalmart,7.97232e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+856,0,supplements,overused,7.97231e+17,0,"@pash22: Vitamin D supplements are widely overused, doctors warn via @statnews"
+866,9,supplements,free,7.97229e+17,-2,I have my alarm set for 7:30 am to go to the vitamin shop for free supplements and gifts.
+874,0,supplements,quick,7.97228e+17,0,Shout out to @Bodybuildingcom for a quick delivery of my supplements and A FREE SAMPLE OF PROTEIN to go with it!
+881,1,function,promote,7.97228e+17,1,ConceptionXR #supplements support male #fertility & promote normal #sperm function & motility #TTC
+881,1,function,normal,7.97228e+17,1,ConceptionXR #supplements support male #fertility & promote normal #sperm function & motility #TTC
+883,0,supplements,new,7.97228e+17,0,"For et kingpin, new troublehealth supplements #cafe #pharma #merck"
+885,0,products,#these,7.97228e+17,2,#Investigate #these particular products and solutions for health and happiness:
+885,0,products,particular,7.97228e+17,2,#Investigate #these particular products and solutions for health and happiness:
+886,0,supplements,natural,7.97228e+17,0,@realDonaldTrump - I'm a 75 year old vet and am not on pharmaceuticals because of natural supplements.
+887,0,supplements,Fundamental,7.97227e+17,2,@PsychologiesMag: #win a 30 day supply of Beautiful & Fundamental supplements from @EquiLondon RT & follow @psydirector to enter our #Fr
+889,0,supplements,More,7.97227e+17,0,More health supplements on http;//eshop.dawiri.com
+891,0,supplements,Fundamental,7.97227e+17,2,@PsychologiesMag: #win a 30 day supply of Beautiful & Fundamental supplements from @EquiLondon RT & follow @psydirector to enter!
+892,0,supplements,other,7.97227e+17,0,@ChardaySimone Yeah I'm From Australia I can get you some sort of discount if you need a new preworkout or any other supplements.
+893,1,supplements,illegal,7.97227e+17,0,Here's what I did: Kill a man with a dildo and take illegal russian supplements
+898,0,supplements,only,7.97226e+17,0,The only supplements I use are Reese's and hot fri
+900,0,vitamins,#organic,7.97226e+17,0,HouseplantsThe Ultimate Health Supplements #vitaminhealth #organic vitamins D...
+901,0,vitamins,#organic,7.97226e+17,0,HouseplantsThe Ultimate Health Supplements #vitaminhealth #organic vitamins d
+901,0,vitamins,#vitaminhealth,7.97226e+17,0,HouseplantsThe Ultimate Health Supplements #vitaminhealth #organic vitamins d
+909,0,supplements,@Cornesy12,7.97225e+17,0,@Hurleystaxi: @LeighScott1977 @Cornesy12 Only required to.list supplements taken within 7 days.
+909,0,supplements,Only,7.97225e+17,0,@Hurleystaxi: @LeighScott1977 @Cornesy12 Only required to.list supplements taken within 7 days.
+909,0,supplements,@LeighScott1977,7.97225e+17,0,@Hurleystaxi: @LeighScott1977 @Cornesy12 Only required to.list supplements taken within 7 days.
+909,0,supplements,required,7.97225e+17,0,@Hurleystaxi: @LeighScott1977 @Cornesy12 Only required to.list supplements taken within 7 days.
+918,0,supplements,immune,7.97224e+17,1,Get your flu shot and take some immune support supplements.
+921,0,supplements,Unparalleled,7.97223e+17,0,Unparalleled probiotic supplements: ZnUYze
+921,0,supplements,probiotic,7.97223e+17,0,Unparalleled probiotic supplements: ZnUYze
+934,0,vitamins,#NatureMadeAtWalmart,7.97222e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+935,0,supplements,particular,7.97222e+17,1,Pay a #visit to #these particular supplements for health and well being:
+938,0,supplements,crazy,7.97221e+17,1,"Just discovered that one of the ""crazy"" supplements that Chris Traeger takes when his character is being introduced is something I take lol"
+943,0,vitamin,best,7.97221e+17,1,@RealAlexJones @infowars Thank you for everything from information to the best vitamin supplements I'VE EVER TAKEN.
+943,0,supplement,'VE,7.97221e+17,1,@RealAlexJones @infowars Thank you for everything from information to the best vitamin supplements I'VE EVER TAKEN.
+949,0,water,16oz,7.9722e+17,0,@thingrave: things I have to do: drink 16oz water every hour make some low cal soup take herbal dietary supplements drink green smoothi
+949,0,supplements,herbal,7.9722e+17,0,@thingrave: things I have to do: drink 16oz water every hour make some low cal soup take herbal dietary supplements drink green smoothi
+955,0,supplement,Ready-to-Use,7.97219e+17,0,4.5m supplement project targets malnutrition in Kenyan children Ready-to-Use Therapeutic Foods (RUTF) supplements
+955,0,supplements,Ready-to-Use,7.97219e+17,0,4.5m supplement project targets malnutrition in Kenyan children Ready-to-Use Therapeutic Foods (RUTF) supplements
+957,0,supplements,sealed,7.97219e+17,1,"@splitnines lol, I would sure as hell think so.... especially when sealed grow rooms with CO2 supplements create amazing plants"
+957,0,supplements,grow,7.97219e+17,1,"@splitnines lol, I would sure as hell think so.... especially when sealed grow rooms with CO2 supplements create amazing plants"
+960,0,supplements,herbal,7.97218e+17,-3,@TheVictoriaNYC certain herbal supplements may alleviate your pain and misery.
+960,0,supplements,certain,7.97218e+17,-3,@TheVictoriaNYC certain herbal supplements may alleviate your pain and misery.
+960,0,supplements,@TheVictoriaNYC,7.97218e+17,-3,@TheVictoriaNYC certain herbal supplements may alleviate your pain and misery.
+962,0,workout,better,7.97218e+17,1,@cris25mar I feel like I get a better workout & pump without supplements.
+973,0,supplements,#these,7.97217e+17,2,Try out #these #great supplements for keep fit: 0
+975,0,vitamins,#NatureMadeAtWalmart,7.97216e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+991,0,vitamins,#NatureMadeAtWalmart,7.97214e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+999,2,water,16oz,7.97213e+17,1,things I have to do: drink 16oz water every hour make some low cal soup take herbal dietary supplements drink green smoothies NOT BINGE!!!
+999,2,supplements,herbal,7.97213e+17,1,things I have to do: drink 16oz water every hour make some low cal soup take herbal dietary supplements drink green smoothies NOT BINGE!!!
+1003,0,food,whole,7.97213e+17,-1,"A structured program that combines whole food eating with supplements, nutritious supplement shakes, and light exercises."
+1003,0,supplements,nutritious,7.97213e+17,-1,"A structured program that combines whole food eating with supplements, nutritious supplement shakes, and light exercises."
+1003,0,supplement,nutritious,7.97213e+17,-1,"A structured program that combines whole food eating with supplements, nutritious supplement shakes, and light exercises."
+1004,1,supplements,natural,7.97213e+17,0,Most effective natural penis growth techniques natural supplements
+1005,0,vitamins,#organic,7.97213e+17,0,Immune Health Supplements Market is segmented on the basis of product type as #vitaminhealth #organic vitamins...
+1005,0,vitamins,#vitaminhealth,7.97213e+17,0,Immune Health Supplements Market is segmented on the basis of product type as #vitaminhealth #organic vitamins...
+1006,0,vitamins,#organic,7.97213e+17,0,Immune Health Supplements Market is segmented on the basis of product type as #vitaminhealth #organic vitamins 9
+1006,0,vitamins,#vitaminhealth,7.97213e+17,0,Immune Health Supplements Market is segmented on the basis of product type as #vitaminhealth #organic vitamins 9
+1016,0,breakfast,good,7.97211e+17,2,Remember to eat good breakfast and take all your supplements sweetheart take good care of yourself and stay sage pk
+1025,1,shopping,online,7.97211e+17,0,I have college supplements to write but I keep getting distracted with online shopping
+1031,0,people,Most,7.9721e+17,0,Most people would benefit from one of these magnesium supplements
+1040,0,supplements,not necessary,7.97209e+17,0,@OccultInfection: Institute of Medicine: #vitaminD supplements not necessary for those who are eed to adequate sunlight.
+1041,0,vitamins,#NatureMadeAtWalmart,7.97208e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1053,5,supplements,#druginduced,7.97208e+17,0,"Up-to-date, accurate, easily accessed info on #druginduced #liver injury including supplements"
+1054,0,health,#these,7.97208e+17,0,Look at all #these #supplements for physical health:
+1054,0,health,physical,7.97208e+17,0,Look at all #these #supplements for physical health:
+1057,0,foods,natural,7.97207e+17,0,"Shop HBees for premium brands vitamins, sports supplements, weight loss, natural foods, beauty & eco"
+1060,0,supplements,NSF-certified,7.97207e+17,0,@NutriliteUS: More #Nutrilite supplements are now NSF-certified!
+1061,0,vitamins,#NatureMadeAtWalmart,7.97207e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1065,0,vitamins,nutritional,7.97206e+17,0,Incorporating nutritional vitamins differently dietary supplements formal into la normal seniority rollback line:
+1065,0,supplement,formal,7.97206e+17,0,Incorporating nutritional vitamins differently dietary supplements formal into la normal seniority rollback line:
+1067,0,supplements,probiotic,7.97206e+17,0,Giveaway probiotic supplements: WOsGtK
+1068,0,supplements,other,7.97206e+17,0,"Check with your doctor to see how much of each vitamin,minerals,and other supplements are right for you!"
+1077,0,supplements,#recommended,7.97205e+17,0,Pay a #visit to my #recommended supplements for sport and activities:
+1080,0,foods,natural,7.97205e+17,0,"Shop HBees for premium brands vitamins, sports supplements, weight loss, natural foods, beauty & eco"
+1093,0,things,other,7.97204e+17,0,I use it to hold my morning supplements while I get other things
+1096,1,food,real,7.97204e+17,-1,I'm such a slut for supplements but when it comes to eating real food like vegetables I'm just like....ew who tf do you think I am
+1102,0,foods,natural,7.97203e+17,0,"Shop HBees for premium brands vitamins, sports supplements, weight loss, natural foods, beauty & eco"
+1119,0,vitamins,#NatureMadeAtWalmart,7.97202e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1120,0,supplements,natural,7.97202e+17,0,@eumom: #Competition:- #Win 2 months of natural supplements proven to help your skin glow!
+1120,0,supplements,#Win,7.97202e+17,0,@eumom: #Competition:- #Win 2 months of natural supplements proven to help your skin glow!
+1135,0,vitamins,#NatureMadeAtWalmart,7.972e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1137,0,supplements,#these,7.972e+17,1,Take a look at #these #particular supplements for health and well being:
+1137,0,health,#these,7.972e+17,1,Take a look at #these #particular supplements for health and well being:
+1138,0,supplements,other,7.972e+17,0,What other supplements are you taking at the moment
+1140,0,people,Most,7.972e+17,1,Most people have retirement insurance that supplements Medicare so that helps many retirees to still have good care.
+1141,0,supplements,grape,7.972e+17,0,@sunorganicsusa: Boost your collagen with grape seed supplements for fewer #wrinkles!
+1146,0,anything,best,7.97198e+17,1,Never Settle for anything but the best - #1stPhorm makes the Best Supplements in the business -
+1149,0,supplements,super,7.97198e+17,2,@symprove: A cracking & well informed article on super supplements @rebeccaxnewman thanks for the inclusion @ES
+1149,0,supplements,informed,7.97198e+17,2,@symprove: A cracking & well informed article on super supplements @rebeccaxnewman thanks for the inclusion @ES
+1152,0,balance,work/life,7.97198e+17,0,"#me #cfs #fm Some people change diet, take supplements, change work/life balance & remain unwell."
+1153,0,prices,better,7.97198e+17,0,Who do you think provides better prices?
+1154,0,supplements,Australian,7.97198e+17,0,Australian cannabis-based supplements set for European #Inflammation #Turmeric #Cancer d u
+1154,0,supplements,cannabis-based,7.97198e+17,0,Australian cannabis-based supplements set for European #Inflammation #Turmeric #Cancer d u
+1156,3,supplements,Probiotic,7.97197e+17,0,Probiotic supplements on rise in global 40bn market via @NutraEurope
+1161,0,food,#nutritious,7.97196e+17,0,Do you provide #nutritious food or #supplements?
+1162,0,supplements,@monaeltahawy,7.97196e+17,2,"@MickailNaseem: ""Only you can save yourself, but solidarity plays a great role"", @monaeltahawy supplements @MohamedNasheed's ""get streng"
+1166,0,supplements,buy,7.97196e+17,0,"Debating, Should I get my Truck washed & waxed or buy supplements....?"
+1168,0,supplements,herbal,7.97195e+17,0,"The manufacture of herbal dietary supplements is regulated by the FDA in the United States, but is not subject to..."
+1172,0,supplements,@T_adair98,7.97195e+17,0,@T_adair98 supplements
+1180,0,vitamins,#NatureMadeAtWalmart,7.97195e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1181,0,bottles,big,7.97194e+17,1,Save big on Vortex bottles and Protein #Cellucor #Supplements
+1196,0,supplements,strong,7.97193e+17,1,"Brit male beauty culture traditionally show before & after of weak to strong - working out, supplements, etc."
+1197,0,food,organic,7.97193e+17,1,"@livinlela: i'm thankful for my psychedelics, organic food, weed, supplements/vitamins and unaltered wildlife."
+1206,0,supplements,dietary,7.97192e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 9
+1206,0,loss,dietary,7.97192e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 9
+1208,0,supplements,Probiotic,7.97191e+17,0,Probiotic supplements on rise in global 40bn market
+1210,0,nutrients,other,7.97191e+17,0,"- Vitamins, minerals, and other nutrients can g... D"
+1213,0,supplements,dietary,7.9719e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss - Emirates 24|7 - #QC
+1213,0,loss,dietary,7.9719e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss - Emirates 24|7 - #QC
+1217,1,supplements,special,7.9719e+17,0,@mikedelic you been consuming some special supplements or something?
+1219,1,supplements,whole,7.97189e+17,0,determination and 100% natural whole food supplements
+1219,1,supplements,natural,7.97189e+17,0,determination and 100% natural whole food supplements
+1220,0,love,able,7.97189e+17,2,@ahelicoptermom: I love being able to pick up vitamins & supplements with my weekly Walmart shopping!
+1220,0,shopping,weekly,7.97189e+17,2,@ahelicoptermom: I love being able to pick up vitamins & supplements with my weekly Walmart shopping!
+1224,0,supplements,probiotic,7.97188e+17,0,Overcome probiotic supplements: mkVDQH
+1224,0,supplements,Overcome,7.97188e+17,0,Overcome probiotic supplements: mkVDQH
+1225,0,anything,best,7.97188e+17,1,Never Settle for anything but the best - #1stPhorm makes the Best Supplements in the business -
+1229,0,vitamins,#organic,7.97188e+17,1,Which vitamins and supplements does a baby need and for how #vitaminhealth #organic vitamins...
+1229,0,vitamins,Which,7.97188e+17,1,Which vitamins and supplements does a baby need and for how #vitaminhealth #organic vitamins...
+1229,0,vitamins,#organic,7.97188e+17,1,Which vitamins and supplements does a baby need and for how #vitaminhealth #organic vitamins...
+1229,0,vitamins,Which,7.97188e+17,1,Which vitamins and supplements does a baby need and for how #vitaminhealth #organic vitamins...
+1234,0,supplements,dietary,7.97188e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss
+1234,0,loss,dietary,7.97188e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss
+1240,0,supplements,daily,7.97187e+17,0,My daily non RX supplements: Vit B12 (energy/important 4 vegetarian/vegan ppl) Vit B1 ( D
+1241,0,review,amazing,7.97187e+17,2,Just received this amazing review on some of our supplements: Hello Bekki.
+1243,0,supplements,dietary,7.97187e+17,-2,Check out our list of weight loss & dietary supplements: 9
+1244,0,nutrients,other,7.97187e+17,0,"- Vitamins, minerals, and other nutrients can g..."
+1245,0,supplement,fine,7.97187e+17,2,@AverageHunter @IllinoisDNR supplements r fine.
+1245,0,protein,scary,7.97187e+17,-3,The prion protein in the urine and fluids is scary stuff.
+1248,2,love,able,7.97187e+17,2,I love being able to pick up vitamins & supplements with my weekly Walmart shopping!
+1248,2,shopping,weekly,7.97187e+17,2,I love being able to pick up vitamins & supplements with my weekly Walmart shopping!
+1272,1,vitamins,#NatureMadeAtWalmart,7.97184e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1285,5,supplements,first,7.97183e+17,0,Bought my first supplements.
+1287,0,supplements,dietary,7.97183e+17,-2,@Emirates247: UAE Health Ministry orders withdrawal of dietary supplements for weight loss 8 U2
+1287,0,loss,dietary,7.97183e+17,-2,@Emirates247: UAE Health Ministry orders withdrawal of dietary supplements for weight loss 8 U2
+1291,0,taste,mild,7.97183e+17,1,Organifi-Green Juice Superfood Supplements is astonishingly good and its taste has a mild
+1295,1,wellness,optimal,7.97183e+17,1,Kyni Sunrise will help you eerience optimal wellness!
+1300,1,supplements,Evaluating,7.97183e+17,0,"Evaluating dietary supplements...are they ""healthy""?"
+1301,0,diet,healthy,7.97183e+17,0,"If I eat a healthy diet, do I still need to take #supplements?"
+1305,0,supplements,#vitaminD,7.97182e+17,0,Institute of Medicine: #vitaminD supplements not necessary for those who are eed to adequate sunlight.
+1305,0,supplements,necessary,7.97182e+17,0,Institute of Medicine: #vitaminD supplements not necessary for those who are eed to adequate sunlight.
+1306,0,supplements,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements
+1307,0,natural,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements 9
+1307,0,natural,effective,7.97182e+17,0,Most effective natural penis growth techniques natural supplements 9
+1307,0,natural,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements 9
+1307,0,natural,effective,7.97182e+17,0,Most effective natural penis growth techniques natural supplements 9
+1308,0,supplements,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements
+1310,0,supplements,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements
+1313,0,supplements,natural,7.97182e+17,0,Most effective natural penis growth techniques natural supplements
+1314,0,supplements,nutritional,7.97182e+17,1,@AOAConnect: New study makes a case for using genetic testing to determine if nutritional supplements will help treat AMD.
+1318,0,supplements,fat,7.97182e+17,0,@BlissFuchs3: fat burning supplements for women
+1323,2,water,less,7.97181e+17,0,"long story short, it was episodes of hyponatremia aka i just need mineral supplements and to drink less water"
+1324,0,quality,top,7.97181e+17,0,"@MadeinUSAPledge: #FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995"
+1325,0,supplements,better,7.97181e+17,0,@TreadstoneNW: @AppliedNutri cant ask for a better advertisement for your supplements then the shape that @SwiftySmith is in https://t
+1326,0,supplements,bioavailable,7.97181e+17,0,Vitamin supplements are highly bioavailable but this also decreases the body's ability to regulate how much/little it absorbs.
+1329,1,effects,unwanted,7.97181e+17,0,"Mixing medications with other drugs, foods or supplements can lead to unwanted side effects."
+1333,0,shopping,Start,7.9718e+17,0,Start shopping!
+1334,0,shopper,easy,7.9718e+17,0,@HamburgPavilion: NuHealth makes it easy to shop local and shop small.
+1334,0,shopper,easy,7.9718e+17,0,@HamburgPavilion: NuHealth makes it easy to shop local and shop small.
+1334,0,prices,best,7.9718e+17,1,We offer the best prices on all your favorite supplements;... htt
+1334,0,supplements,favorite,7.9718e+17,1,We offer the best prices on all your favorite supplements;... htt
+1334,0,supplements,best,7.9718e+17,1,We offer the best prices on all your favorite supplements;... htt
+1340,0,vitamins,#NatureMadeAtWalmart,7.9718e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1341,0,supplements,probiotic,7.9718e+17,2,The very best probiotic supplements: wjueUa
+1341,0,supplements,best,7.9718e+17,2,The very best probiotic supplements: wjueUa
+1342,0,health,great,7.9718e+17,1,Brain Health Supplements Market: Hectic lifestyle coupled with mental stress makes brain health supplement a great
+1359,0,vitamins,#NatureMadeAtWalmart,7.97179e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1362,0,supplements,dietary,7.97179e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 0
+1362,0,loss,dietary,7.97179e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 0
+1375,0,food,healthy,7.97179e+17,0,Are you looking for healthy food for your cats?
+1385,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 #MadeinUSA"
+1386,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 9 #MadeinUSA"
+1387,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 0 #MadeinUSA"
+1388,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 #MadeinUSA"
+1389,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 #MadeinUSA"
+1390,0,quality,top,7.97178e+17,0,"#FF @NutraSenseCo Manufacturing its niche line of top quality, USA-sourced & made supplements since 1995 #MadeinUSA"
+1396,0,supplements,fine,7.97178e+17,1,us Africans just fine with rice supplements u
+1398,0,supplements,recommended,7.97178e+17,0,@1800PetMeds: Top 6 recommended supplements for aging pets: #SeniorPetMonth
+1400,0,supplements,full,7.97178e+17,-2,Surgery outcomes are proving poorer when pt is full of meds supplements and DIEt crap
+1401,0,supplements,mass,7.97178e+17,0,I got my mass building supplements.
+1437,0,vitamins,#NatureMadeAtWalmart,7.97175e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1456,1,prices,low,7.97173e+17,-1,"Still time to take an EXTRA 20% OFF our low, low sale prices on ALL @Cellucor #supplements Here --"
+1465,0,supplements,dietary,7.97172e+17,-2,#_ UAE Health Ministry orders withdrawal of dietary supplements for weight loss d2
+1471,0,toxins,worst,7.97172e+17,-2,"@DrQuantumMind: The 10 worst toxins hidden in vitamins, supplements and health foods:"
+1486,0,results,big,7.97171e+17,0,Adding supplements to your bodybuilding diet for big results
+1493,0,supplements,aleatory,7.9717e+17,0,Which bodybuilding supplements unambiguously aleatory?
+1512,10,supplements,better,7.97169e+17,0,@AppliedNutri cant ask for a better advertisement for your supplements then the shape that @SwiftySmith is in
+1518,0,supplements,Go-To,7.97168e+17,0,Here are Dimitri's Go-To supplements that can help!
+1521,0,quality,top,7.97168e+17,1,#FF @NutraSenseCo Manufacturing top quality USA-sourced & made supplements since 1995 Proudly #MadeinUSA
+1522,0,vitamins,fat-soluble,7.97168e+17,0,How does the body process fat-soluble vitamins?
+1528,3,supplements,only,7.97168e+17,1,The only supplements I use are Reese's and hot fries TBH lol
+1531,0,vitamins,#NatureMadeAtWalmart,7.97167e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1540,0,life,better,7.97167e+17,0,Cheryl Baker tells you how Viviscal Hair Supplements changed her life for the better and gave her back the...
+1545,0,amount,necessary,7.97167e+17,0,Cellucor : RT xmisscharlesx: Supplements help your body replenish the necessary amount of
+1556,0,supplements,natural,7.97166e+17,0,@LucidityGuide: These natural supplements may be just what you need to control your dreams tonight: #luciddream
+1561,0,supplements,lead,7.97165e+17,0,@AwaxED @BrickeSkwad @KotyaED they won't fuck with us country folk I'll put 3 lead supplements in em
+1562,5,supplement,not dietary,7.97165e+17,-1,Let us all pray for a world where people don't sell shitty dietary supplements and other similar scams on Facebook.
+1562,5,supplements,dietary,7.97165e+17,-1,Let us all pray for a world where people don't sell shitty dietary supplements and other similar scams on Facebook.
+1584,1,vitamin,stupid,7.97163e+17,-1,Vitamin D is a stupid vitamin.
+1584,1,supplements,daily,7.97163e+17,-1,"I take 3 vitamin D supplements daily and a weekly one, but still have low Vitamin D. What is sunlight??"
+1588,0,supplements,dietary,7.97162e+17,1,"@JAJafri: #Probiotics, beneficial live bacteria& yeasts taken as dietary supplements, can improve cognitive function in humans #Yogurt #"
+1588,0,function,cognitive,7.97162e+17,1,"@JAJafri: #Probiotics, beneficial live bacteria& yeasts taken as dietary supplements, can improve cognitive function in humans #Yogurt #"
+1594,1,supplements,desiccated,7.97161e+17,0,Just took some desiccated liver supplements while sitting in a @chrismasterjohn lecture on fat
+1608,0,supplements,enzyme,7.97159e+17,0,"@CreightonJk @tumblr no, enzyme supplements are required"
+1619,0,supplements,dietary,7.97157e+17,-1,@ScrippsHealth: Did you know that some dietary supplements can have high-risk drug interactions?
+1623,0,vitamins,#NatureMadeAtWalmart,7.97156e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1627,0,vitamins,#NatureMadeAtWalmart,7.97155e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1632,0,supplements,#turmeric,7.97155e+17,0,@DESIblitz Consider adding #turmeric to your #hemp supplements.
+1639,0,supplements,best,7.97153e+17,1,Click the above link to get the best supplements on the market - #ABOVETHEREST 0U
+1640,0,supplements,Overpower,7.97153e+17,0,Overpower probiotic supplements: kYvxRF DU
+1640,0,supplements,probiotic,7.97153e+17,0,Overpower probiotic supplements: kYvxRF DU
+1646,1,work,synergistically,7.97152e+17,1,10 #Herbs that synergistically work well together to increase cellular #energy.
+1650,2,supplements,dietary,7.97152e+17,-1,Did you know that some dietary supplements can have high-risk drug interactions?
+1662,0,vitamins,#NatureMadeAtWalmart,7.97151e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1663,0,supplements,clear,7.97151e+17,0,Is her for a certainty clear as day so ttake axerophthol supplements: JrwnNI D
+1666,0,supplements,healthy,7.97151e+17,0,@snowtigger35: Let Schwartz Bioresearch Keep you healthy all year long with supplements that have been extensively researched to... http
+1668,0,supplements,favorite,7.9715e+17,1,My favorite Glutathione supplements are Lipoceutical Glutathione C & Glutathione...
+1669,0,supplements,favorite,7.9715e+17,1,My favorite Glutathione supplements are Lipoceutical Glutathione C & Glutathione...
+1670,0,supplements,favorite,7.9715e+17,1,My favorite Glutathione supplements are Lipoceutical Glutathione C & Glutathione Sublingual
+1672,0,supplements,silage,7.9715e+17,1,@farmersjournal: Where does the value lie in silage supplements?
+1680,0,supplements,good,7.97149e+17,1,@EdzardErnst: Dietary supplements are good for athletes - aren't they?
+1682,6,supplements,@monaeltahawy,7.97149e+17,2,"""Only you can save yourself, but solidarity plays a great role"", @monaeltahawy supplements @MohamedNasheed's ""get strength from one another"""
+1683,0,prices,negative,7.97149e+17,-1,Excepting negative prices in contemplation of paramountcy inland highest contradictory aging supplements: eOSq
+1691,0,vitamins,#NatureMadeAtWalmart,7.97148e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1694,0,supplements,natural,7.97148e+17,-3,"In addition to exercise and eating properly, here are 4 natural supplements you should take to eliminate the pain"
+1697,0,vitamins,#NatureMadeAtWalmart,7.97148e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1698,0,vitamins,#NatureMadeAtWalmart,7.97147e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1701,4,supplements,best,7.97146e+17,1,Click the above link to get the best supplements on the market - #ABOVETHEREST
+1704,0,vitamins,#NatureMadeAtWalmart,7.97146e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1707,2,supplements,dietary,7.97146e+17,1,"#Probiotics, beneficial live bacteria& yeasts taken as dietary supplements, can improve cognitive function in human"
+1707,2,function,cognitive,7.97146e+17,1,"#Probiotics, beneficial live bacteria& yeasts taken as dietary supplements, can improve cognitive function in human"
+1713,0,food,natural,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,food,gluten-free,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,food,certified-organic,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,food,#food,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,products,#food,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,products,natural,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,products,large,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,foods,gluten-free,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,foods,#food,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,foods,natural,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1713,0,foods,certified-organic,7.97146e+17,0,"@SMCornucopia: We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic foods."
+1716,0,products,gluten-free,7.97145e+17,0,"We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic"
+1716,0,products,#food,7.97145e+17,0,"We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic"
+1716,0,products,natural,7.97145e+17,0,"We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic"
+1716,0,products,large,7.97145e+17,0,"We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic"
+1716,0,products,certified-organic,7.97145e+17,0,"We stock a large selection of natural #food products and #supplements, including gluten-free and certified-organic"
+1718,3,supplements,natural,7.97145e+17,0,#Competition:- #Win 2 months of natural supplements proven to help your skin glow!
+1718,3,supplements,#Win,7.97145e+17,0,#Competition:- #Win 2 months of natural supplements proven to help your skin glow!
+1720,0,amount,necessary,7.97144e+17,0,@xmisscharlesx: Supplements help your body replenish the necessary amount of dietary nutrients it needs so here's mine get urs now @Cell
+1720,0,nutrients,dietary,7.97144e+17,0,@xmisscharlesx: Supplements help your body replenish the necessary amount of dietary nutrients it needs so here's mine get urs now @Cell
+1720,0,nutrients,necessary,7.97144e+17,0,@xmisscharlesx: Supplements help your body replenish the necessary amount of dietary nutrients it needs so here's mine get urs now @Cell
+1724,0,supplements,dietary,7.97144e+17,-2,@UAENews: UAE Health Ministry orders withdrawal of dietary supplements for weight loss 2
+1724,0,loss,dietary,7.97144e+17,-2,@UAENews: UAE Health Ministry orders withdrawal of dietary supplements for weight loss 2
+1729,0,supplements,dietary,7.97144e+17,0,UAE Health Ministry orders withdrawal of two dietary supplements - The National - #QC
+1730,0,supplements,Pre-workout,7.97144e+17,0,Pre-workout supplements: Proprietary blends of mystery - The Signal - #QC
+1731,0,diets,Special,7.97144e+17,1,"Ex... kids on Special diets, supplements, minerals, detoxed?"
+1733,0,diet,thru,7.97144e+17,1,"@Katherinelorna @Sawbones PCOS can be managed thru diet & lifestyle, certain supplements like inositol and medicines like metformin"
+1733,0,supplements,certain,7.97144e+17,1,"@Katherinelorna @Sawbones PCOS can be managed thru diet & lifestyle, certain supplements like inositol and medicines like metformin"
+1735,1,supplements,penis,7.97144e+17,0,@SOSDeveloper @thehill If I click on this link will another ad for penis enlargement supplements pop up just like your first link?
+1737,0,vitamins,determinate,7.97144e+17,-1,The nutritious guess of tip the scales weakening supplements other determinate nourishment vitamins: AIdZKT
+1737,0,vitamins,other,7.97144e+17,-1,The nutritious guess of tip the scales weakening supplements other determinate nourishment vitamins: AIdZKT
+1741,0,building,#muscle,7.97143e+17,0,#CO company fined $100k for illegally selling synthetic steroids by claiming they were #muscle building
+1745,0,anything,best,7.97143e+17,1,Never Settle for anything but the best - #1stPhorm makes the Best Supplements in the business -
+1753,0,vitamins,#NatureMadeAtWalmart,7.97142e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1754,0,vitamins,#NatureMadeAtWalmart,7.97142e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1755,0,supplements,silage,7.97142e+17,1,Where does the value lie in silage supplements?
+1761,0,people,more,7.97141e+17,0,"@MaasAngela A pandemic is overdone, but fact is that more people spend time indoors."
+1763,0,supplements,#prenatal,7.97141e+17,0,Patients can get the extra #folic acid they may need from Mteryti Folic 5 #prenatal supplements.
+1765,0,people,More,7.97141e+17,0,More people need to realize the benefits of whole food effects rather than relying on supplements.
+1765,0,effects,whole,7.97141e+17,0,More people need to realize the benefits of whole food effects rather than relying on supplements.
+1767,1,supplement,fresh,7.9714e+17,1,@deanogymlover1 @Xercise4Less @TeamScitec nice nothing better then supplements being fresh!
+1772,2,supplements,dietary,7.9714e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 2
+1772,2,loss,dietary,7.9714e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 2
+1776,0,amount,recommended,7.9714e+17,0,@Health24com: Misunderstandings about the recommended amount of vitamin D have led to misinterpretation of blood tests
+1777,5,supplements,dietary,7.9714e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 8
+1777,5,loss,dietary,7.9714e+17,-2,UAE Health Ministry orders withdrawal of dietary supplements for weight loss 8
+1789,2,supplements,only,7.97138e+17,1,"@RTcoe @Onnit @Megsalodon @CoachCristianGP They have the only supplements I actually believe in, and they're good at motivating/encouraging"
+1792,0,supplements,suspect,7.97137e+17,0,#BrainAndMemoryFoundation Why dietary supplements are suspect.
+1795,0,supplements,natural,7.97137e+17,-3,"In addition to exercise and eating properly, here are 4 natural supplements you should take to eliminate the pain"
+1797,0,supplements,nutritional,7.97137e+17,0,Finding the balance between nutritional supplements and eye health
+1799,0,nutrition,right,7.97137e+17,0,"If we feed our body the right nutrition, avoid chemicals, get the toxins out, and take the right supplements,... 9"
+1799,0,supplements,right,7.97137e+17,0,"If we feed our body the right nutrition, avoid chemicals, get the toxins out, and take the right supplements,... 9"
+1800,0,supplements,natural,7.97137e+17,0,Most effective natural penis growth techniques natural supplements
+1801,0,dose,#MD,7.97137e+17,0,Chat with your #MD before you dose!
+1803,0,supplements,new,7.97137e+17,0,Need some new supplements?
+1803,0,gainers,mass,7.97137e+17,0,"We stock test boosters, protein powders, mass gainers, fat burners - everything!"
+1806,0,supplements,new,7.97137e+17,0,Need some new supplements?
+1806,0,gainers,mass,7.97137e+17,0,"We stock test boosters, protein powders, mass gainers, fat burners - everything!"
+1810,0,lot,big,7.97137e+17,0,There's a big assumption with a lot of people that specific Supplements...
+1821,0,supplements,favourite,7.97136e+17,1,@VeronikaShares: @sharemyyear @MyproteinUK My Protein is my favourite website for supplements.
+1822,0,supplements,probiotic,7.97136e+17,0,Giveaway probiotic supplements: mpgUNA
+1832,0,review,latest,7.97135e+17,0,Read our latest review of the product by Joel P via @yotpo
+1832,0,product,latest,7.97135e+17,0,Read our latest review of the product by Joel P via @yotpo
+1836,0,quality,highest,7.97134e+17,0,The highest quality... 0
+1841,0,anything,best,7.97133e+17,1,Never Settle for anything but the best - #1stPhorm makes the Best Supplements in the business -
+1842,1,nutrient,important,7.97133e+17,0,"#Fish #Oil is the natural oil discovered in the oily fish tissues, consisting of an important nutrient known as..."
+1844,1,supplements,super,7.97133e+17,2,A cracking & well informed article on super supplements @rebeccaxnewman thanks for the inclusion @ESMagOfficial
+1844,1,supplements,informed,7.97133e+17,2,A cracking & well informed article on super supplements @rebeccaxnewman thanks for the inclusion @ESMagOfficial
+1848,0,supplements,mad,7.97133e+17,-1,@IcedKnife: why i gotta write mad supplements for college im so not down
+1859,0,supplements,dietary,7.97131e+17,-2,"@Dubaiinformer: Health Ministry orders withdrawal of dietary supplements for weight loss, staminaenhancement"
+1859,0,loss,dietary,7.97131e+17,-2,"@Dubaiinformer: Health Ministry orders withdrawal of dietary supplements for weight loss, staminaenhancement"
+1865,0,supplements,nutritional,7.97131e+17,1,"@inabster: Owing to #Murdoch #Brexit, prices have shot up on the Internet for certain nutritional supplements by 44%, thanks #Leavers, s"
+1872,0,vitamins,#NatureMadeAtWalmart,7.97131e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1873,0,nutrients,sufficient,7.97131e+17,0,More are turning to #supplements as a means of getting sufficient nutrients.
+1874,3,supplements,dietary,7.9713e+17,-2,"Health Ministry orders withdrawal of dietary supplements for weight loss, staminaenhancement"
+1874,3,loss,dietary,7.9713e+17,-2,"Health Ministry orders withdrawal of dietary supplements for weight loss, staminaenhancement"
+1893,0,vitamins,#NatureMadeAtWalmart,7.97129e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1899,0,supplements,natural,7.97128e+17,0,"@realDonaldTrump Ideal, vitamins, natural supplements, and natural medicinal consults 2B deductions, as HEALTH is a HUGE issue4everyone!"
+1902,0,vitamins,#NatureMadeAtWalmart,7.97128e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1910,1,supplements,favourite,7.97127e+17,1,@sharemyyear @MyproteinUK My Protein is my favourite website for supplements.
+1921,0,supplements,Trounce,7.97126e+17,0,Trounce probiotic supplements: HdwsrP
+1921,0,supplements,probiotic,7.97126e+17,0,Trounce probiotic supplements: HdwsrP
+1923,0,vitamins,#NatureMadeAtWalmart,7.97126e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1943,1,supplements,Topical,7.97125e+17,0,Topical glycosaminoglycans supplements can help to provide restoration of enzyme balance to slow or prevent matrix breakdown.
+1943,1,balance,enzyme,7.97125e+17,0,Topical glycosaminoglycans supplements can help to provide restoration of enzyme balance to slow or prevent matrix breakdown.
+1945,0,supplements,dietary,7.97125e+17,0,UAE Health Ministry orders withdrawal of two dietary supplements #UAE C
+1946,0,supplements,dietary,7.97125e+17,0,Dr Jeff Bland: The future of dietary supplements is to marry itself into this scientific wel...
+1956,0,pills,natural,7.97124e+17,0,"Do natural butt enhancement pills and creams really work to give you a fuller, bigger butt?"
+1958,0,vitamins,#NatureMadeAtWalmart,7.97124e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1960,0,supplements,big,7.97123e+17,0,BCAA supplements are big moneymakers but they just don't live up to the hype.
+1962,0,feel,stronger,7.97123e+17,0,"@karenallen: @myritual Only a week in, but my nails feel stronger."
+1962,0,supplements,other,7.97123e+17,0,"I'm only taking ritual, no other supplements."
+1963,1,supplements,prenatal,7.97123e+17,0,We recommend taking prenatal supplements starting several months before conception via @nhfhealthychild
+1968,0,supplements,nutritional,7.97123e+17,0,#Vegan What families can do to help their autistic child using diet changes & nutritional supplements.
+1970,0,vitamins,#NatureMadeAtWalmart,7.97123e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+1972,0,recovery,#strength,7.97123e+17,0,#vitamind enhances #strength recovery aft damaging #exercise #supplements #fitness #crossfit #runners
+1973,0,health,joint,7.97123e+17,1,Eliminate free radicals and improve your joint health with #LifeGlowTurmeric supplements!
+1973,0,supplements,#LifeGlowTurmeric,7.97123e+17,1,Eliminate free radicals and improve your joint health with #LifeGlowTurmeric supplements!
+1976,1,protein,sure,7.97122e+17,0,buying protein and supplements is a sure way to coerce a cheap ass to workout again
+1980,6,supplements,different,7.97122e+17,-1,He or she has just screwed up my bowels so I'm taking a few different supplements now.
+1980,6,supplements,few,7.97122e+17,-1,He or she has just screwed up my bowels so I'm taking a few different supplements now.
+1984,0,boost,natural,7.97122e+17,1,@SwansonVitamins: Achieve a natural energy boost with 10 herbal supplements like green tea and ginseng: d https://
+1984,0,supplements,herbal,7.97122e+17,1,@SwansonVitamins: Achieve a natural energy boost with 10 herbal supplements like green tea and ginseng: d https://
+1989,0,vitamins,#NatureMadeAtWalmart,7.97122e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2002,0,supplements,many,7.97121e+17,1,"Guys, taking too many supplements like vitamin D can be dangerous to your..."
+2008,0,supplements,folic,7.97121e+17,0,"@DanYanney_: Take folic acid supplements, only if your doctor recommends it."
+2014,0,office,not able,7.9712e+17,0,"@drinkinmelilt I wouldn't be able to function during my period without taking evening primrose oil supplements, 10/10"
+2014,0,supplements,primrose,7.9712e+17,0,"@drinkinmelilt I wouldn't be able to function during my period without taking evening primrose oil supplements, 10/10"
+2027,1,supplements,Fundamental,7.97119e+17,2,@PsychologiesMag #win a 30 day supply of Beautiful & Fundamental supplements from @EquiLondon RT & follow @psydirector #FreebieFriday
+2033,0,vitamins,#NatureMadeAtWalmart,7.97119e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2035,2,supplements,new,7.97119e+17,2,@rebeccaxnewman rounds up the new wave of super supplements
+2035,2,supplements,super,7.97119e+17,2,@rebeccaxnewman rounds up the new wave of super supplements
+2038,0,contents,full,7.97119e+17,0,"@ImmigrantBios: Newly published: ""Immigrant Entrepreneurship: The German-American Eerience since 1700,"" full contents online https://t"
+2040,2,supplements,Fundamental,7.97119e+17,2,#win a 30 day supply of Beautiful & Fundamental supplements from @EquiLondon RT & follow @psydirector to enter our
+2041,0,supplements,Liver,7.97119e+17,0,Liver damage from supplements is on the rise #CRSalud #CRSponsored
+2042,0,problems,salubriousness,7.97119e+17,-1,Automatism respecting calcium magnesium supplements pocket old-age insurance an bit in order to break salubriousness problems: UbmrUA
+2054,4,supplements,Calcium,7.97118e+17,-1,Calcium supplements linked to increased heart disease risk.
+2057,1,fat,safer,7.97118e+17,1,Some research suggests lauric acid might be a safer fat than #transfats in food preparations.
+2064,0,supplements,Pattern,7.97117e+17,0,Pattern probiotic supplements: LUdOfF
+2064,0,supplements,probiotic,7.97117e+17,0,Pattern probiotic supplements: LUdOfF
+2065,0,vitamins,#NatureMadeAtWalmart,7.97117e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2066,0,amount,adequate,7.97117e+17,0,"@HowtocareBHair: Taking supplements, drinking adequate amount of water and exercising is effective when growing long healthy hair."
+2066,0,water,adequate,7.97117e+17,0,"@HowtocareBHair: Taking supplements, drinking adequate amount of water and exercising is effective when growing long healthy hair."
+2073,0,products,NSF-certified,7.97117e+17,0,This new certification eands the Nutrilite supplement portfolio of NSF-certified products in North America!
+2075,1,supplements,dietary,7.97117e+17,0,UAE Health Ministry orders withdrawal of two dietary supplements
+2084,0,supplements,careful,7.97115e+17,0,@MarjiJSherman: A reason to be careful w/ dietary supplements!
+2096,0,supplements,young-looking,7.97114e+17,2,Prevent ageing - use diet supplements for young-looking skin Beauty supplements and wrinkle prevention #beauty #m
+2096,0,supplements,young-looking,7.97114e+17,2,Prevent ageing - use diet supplements for young-looking skin Beauty supplements and wrinkle prevention #beauty #m
+2101,0,supplements,SevenPoint2,7.97114e+17,0,Get in shape with SevenPoint2 alkaline supplements and show off your new body #loseweight #weightloss #alkalinediet
+2103,0,supplements,voNc,7.97114e+17,0,Have sexual relations conjugate supplements: aiding thine face equines debarment straight a laudable necrology: voNc
+2111,0,vitamins,#NatureMadeAtWalmart,7.97113e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2117,0,vitamins,#NatureMadeAtWalmart,7.97113e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2124,2,shipping,Free,7.97113e+17,0,"Supplements, Free shipping!"
+2127,0,supplements,best,7.97113e+17,1,"The best supplements for firmer, healthier and clear skin"
+2135,0,supplements,good,7.97112e+17,1,"Realize your genetic potential with good diet, exercise and clinically proven supplements:"
+2135,0,supplements,proven,7.97112e+17,1,"Realize your genetic potential with good diet, exercise and clinically proven supplements:"
+2146,0,vitamins,#NatureMadeAtWalmart,7.97111e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2151,0,supplements,good,7.97111e+17,2,@PrettyOverPetty This website has really good hair supplements but their Shampoo will produ
+2152,1,results,better,7.97111e+17,0,better results than just hair supplements alone.
+2161,2,powder,healthy,7.9711e+17,0,@Puritan2000 do you have any advice on a healthy protein powder and healthy supplements I should be taking?
+2161,2,supplements,healthy,7.9711e+17,0,@Puritan2000 do you have any advice on a healthy protein powder and healthy supplements I should be taking?
+2165,0,supplements,Predominate,7.9711e+17,0,Predominate accent breakage supplements: AqHDIgCxw
+2167,1,vitamins,#NatureMadeAtWalmart,7.9711e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2177,0,supplements,acetate,7.9711e+17,0,Cancer treatments could evolve from research showing that acetate supplements speed up cancer growth
+2182,0,vitamins,#NatureMadeAtWalmart,7.97109e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2185,0,supplements,probiotic,7.97109e+17,2,Very best probiotic supplements: sDCaDJ
+2185,0,supplements,best,7.97109e+17,2,Very best probiotic supplements: sDCaDJ
+2214,0,supplements,certain,7.97107e+17,0,@ManboobsNoMore: Lavender or tea tree oil and certain supplements such as Dong Quai and Tribulus terrestris have also been associated wi
+2216,0,feel,old,7.97107e+17,0,16 year 'Old Mick' doesn't look or feel so old any more!
+2230,1,vitamins,#NatureMadeAtWalmart,7.97107e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2231,0,products,formulated,7.97107e+17,0,"Newly formulated products feature Opti-GutTM, a blend of probiotics and natural ingredients promotes healthy belly."
+2231,0,ingredients,natural,7.97107e+17,0,"Newly formulated products feature Opti-GutTM, a blend of probiotics and natural ingredients promotes healthy belly."
+2232,0,capsule,probiotic,7.97106e+17,0,"With over 5 billion probiotic CFUs per capsule, #PBAssist+ is one of the most naturally effective #supplements eve"
+2248,0,vitamins,#NatureMadeAtWalmart,7.97106e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2251,0,supplements,male,7.97105e+17,-3,@StarPriest: >tfw you beat the globalists using male vitality supplements and screaming
+2252,0,supplements,NSF-certified,7.97105e+17,0,More #Nutrilite supplements are now NSF-certified!
+2253,34,supplements,NSF-certified,7.97105e+17,0,More #Nutrilite supplements are now NSF-certified!
+2265,0,supplements,best,7.97105e+17,-1,Thank you @onnit for supplying me with the best supplements in the game for this fight
+2266,0,supplements,Herbal,7.97105e+17,0,"#Ayurvedic treatment for renal, Herbal supplements for renal, Herbal medicine for #chronic condition."
+2266,0,supplements,#Ayurvedic,7.97105e+17,0,"#Ayurvedic treatment for renal, Herbal supplements for renal, Herbal medicine for #chronic condition."
+2266,0,supplements,renal,7.97105e+17,0,"#Ayurvedic treatment for renal, Herbal supplements for renal, Herbal medicine for #chronic condition."
+2267,0,food,safe,7.97105e+17,1,"@PrisonPlanet Hey, do I still need to pick up supplements at Infowars, or is the food safe now?"
+2268,0,supplements,dietary,7.97104e+17,0,UAE Health Ministry orders withdrawal of two dietary supplements #UAE 1
+2280,1,supplements,good,7.97103e+17,1,Anyone know of any good probiotic supplements & where I can get them?
+2280,1,supplements,probiotic,7.97103e+17,1,Anyone know of any good probiotic supplements & where I can get them?
+2283,0,supplements,dietary,7.97102e+17,0,UAE Health Ministry orders withdrawal of two dietary supplements
+2289,2,supplements,male,7.97102e+17,1,"it's so funny that Alex Jones shills for ""male vitality supplements"" he understands his demographic so well"
+2299,0,offers,free,7.97101e+17,1,"Save yourself some money with buy 1, get 1 free offers at discount supplements!!"
+2303,0,vitamins,#NatureMadeAtWalmart,7.97101e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2314,0,supplements,natural,7.97099e+17,0,#onlinehealthshop #alternativehealth : View a range of natural health supplements at our online store d
+2316,1,supplements,Great,7.97099e+17,2,Great bodybuilding supplements for bulking and increasing muscle mass
+2319,0,supplements,Supplements,7.97099e+17,0,Supplements ko supplements ni.
+2334,0,vitamins,#NatureMadeAtWalmart,7.97098e+17,0,Grab #NatureMadeAtWalmart vitamins and supplements!
+2345,0,loss,M,7.97097e+17,-1,"@CraigSpierer_HB: Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2345,0,loss,noteworthy,7.97097e+17,-1,"@CraigSpierer_HB: Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2345,0,improvement,big,7.97097e+17,-1,"@CraigSpierer_HB: Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2345,0,loss,M,7.97097e+17,-1,"@CraigSpierer_HB: Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2345,0,loss,noteworthy,7.97097e+17,-1,"@CraigSpierer_HB: Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2348,0,health,top,7.97097e+17,0,@Dorwest: Read about our top picks to keep your dog in tip top health!
+2350,0,loss,big,7.97097e+17,-1,"Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2350,0,improvement,big,7.97097e+17,-1,"Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2350,0,loss,big,7.97097e+17,-1,"Also noteworthy that MusclePharms 2016 Q3 loss only $1.4M, a big improvement from 2015 Q3 loss of $27.6M."
+2355,0,supplements,lipase,7.97097e+17,0,@JimStoppani @biolayne why are lipase supplements so undervalued?
+2357,0,mass,lean,7.97097e+17,0,"How a 23 year old packed on 27 pounds of lean mass, without supplements, after discovering 3 u"
+2367,0,thing,common,7.97096e+17,0,@rustycol its such a common thing.
+2367,0,thing,such,7.97096e+17,0,@rustycol its such a common thing.
+2368,0,supplements,herbal,7.97096e+17,0,Savesta the purest and most potent Ayurvedic herbal supplements ever created.
+2368,0,supplements,potent,7.97096e+17,0,Savesta the purest and most potent Ayurvedic herbal supplements ever created.
+2368,0,supplements,Ayurvedic,7.97096e+17,0,Savesta the purest and most potent Ayurvedic herbal supplements ever created.
+2372,0,foods,right,7.97096e+17,0,@dinaliz2 @pamoula @TalebKabbara no you don't as I said before eat the right foods and you don't need supplements.
+2373,0,supplements,herbal,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2373,0,supplements,more,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2373,0,supplements,pure,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2373,0,supplements,Ayurvedic,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2375,0,supplements,herbal,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2375,0,supplements,more,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2375,0,supplements,pure,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2375,0,supplements,Ayurvedic,7.97096e+17,0,Check out our site for more info on our pure Ayurvedic herbal supplements 0
+2391,0,diet,meal-replacement,7.9675e+17,0,"@mstern68: Alcoholism, the original meal-replacement liquid diet."
+2391,0,diet,original,7.9675e+17,0,"@mstern68: Alcoholism, the original meal-replacement liquid diet."
+2391,0,diet,liquid,7.9675e+17,0,"@mstern68: Alcoholism, the original meal-replacement liquid diet."
+2393,0,nutritional,high,7.96652e+17,0,high nutritional diet.
+2397,0,meal,full,7.96349e+17,-1,"We carry meal replacement shakes, snacks & full meals."
+2397,0,meals,full,7.96349e+17,-1,"We carry meal replacement shakes, snacks & full meals."
+2433,0,types,other,7.95767e+17,-1,"My diet consists of meal replacement shakes, yogurt and other types of digestive bacteria, gluten free shit, and electrolyte solutions."
+2433,0,types,yogurt,7.95767e+17,-1,"My diet consists of meal replacement shakes, yogurt and other types of digestive bacteria, gluten free shit, and electrolyte solutions."
+2438,0,protein,favorite,7.95719e+17,1,My favorite meal replacement protein: Level-1.
+2445,0,products,right,7.95439e+17,2,Great products are right here
+2471,0,water,cold,7.97233e+17,0,My favorite Shakeology recipe: shake it up with cold water.
+2485,0,cold,massive,7.97211e+17,-1,One week of no Shakeology and I have a massive head cold.
+2493,1,bit,little,7.97195e+17,-1,A little bit of the island in a dessert #cleaneating #shakeology #pineapple #macadamia
+2502,0,water,strawberry,7.97184e+17,1,Mmmmm now that's love fresh mango with #vegan strawberry #Shakeology ice water and vanilla
+2502,0,water,#Shakeology,7.97184e+17,1,Mmmmm now that's love fresh mango with #vegan strawberry #Shakeology ice water and vanilla
+2513,0,meals,#PortionControl,7.97163e+17,1,"Amazing what #PortionControl meals, Shakeology and 30 min of workouts can do it for you!!"
+2527,0,life,not same,7.97143e+17,-1,@danig627: @shakeology @2wildfriends I blended vanilla shakeo with sugar cookie peanut butter and life will never be the same.
+2529,1,milk,almond,7.97142e+17,-2,Chocolate almond milk with chocolate vegan shakeology!!!
+2541,0,things,few,7.97126e+17,1,A few of my fav things today = My super food shake & The Hamilton Mix Tape.
+2544,1,feel,amazing,7.97123e+17,2,I just finished a 3 day cleanse & I feel amazing!
+2563,0,nutrients,best,7.96975e+17,0,The best nutrients in a shake form or add to your breakfast or make pancakes as a #nutritional breakfast #protien
+2567,0,breakfast,smart,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,breakfast,nutritional,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,carbs,80kcal,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,carbs,7g,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,carbs,fat,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,carbs,3g,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2567,0,protein,9g,7.96749e+17,0,"Got vegan smart all-in-one nutritional shake (naturade) for breakfast: 80kcal, 3g fat, 7g carbs, 9g protein."
+2576,0,protein,Vega,7.96022e+17,0,@tanyagem Which Vega protein did you sport in this blend?
+2577,0,flavor,nutritional,7.95999e+17,-1,I voted for Pumpkin Spice as my nutritional shake flavor this morning #ImWithMyCompany #Decisions #ElectionDay
+2584,0,calorie,accurate,7.95665e+17,0,It keeps an accurate count of your calorie...
+2585,0,pills,fat,7.95652e+17,0,Drank half a nutritional shake (40 cals) with 2 fat burning pills and 3 cleansing pills lol
+2585,0,pills,nutritional,7.95652e+17,0,Drank half a nutritional shake (40 cals) with 2 fat burning pills and 3 cleansing pills lol
+2585,0,pills,fat,7.95652e+17,0,Drank half a nutritional shake (40 cals) with 2 fat burning pills and 3 cleansing pills lol
+2585,0,pills,nutritional,7.95652e+17,0,Drank half a nutritional shake (40 cals) with 2 fat burning pills and 3 cleansing pills lol
+2588,0,food,nutritional,7.95572e+17,-1,"I always take pictures of my face while I'm at the gym, eating nutritional food, and drinking a protein shake."
+2591,0,calorie,accurate,7.95423e+17,0,It keeps an accurate count of your calorie... U
+2598,0,boost,nutritional,7.94883e+17,-1,Give your smoothie or shake a nutritional boost
+2604,0,nutritional,basic,7.94696e+17,-1,"To cover your basic nutritional needs, combine the Shaklee Life Shake Mix with Vita Lea and OmegaGuard."
+2613,0,mix,Vi-Shape,7.94421e+17,-1,"ViSalus Body By Vi Balance Kit, 1 bag of Vi-Shape Nutritional Shake mix (30 servings) And 5 pouches of assortment"
+2620,2,nutritional,~,7.94253e+17,-1,"Thurs, Nov 3 Product DEMO 4-7pm ~ @DrinkOrgain nutritional shake that's certified organic #nonGMO #glutenfree d"
+2620,2,nutritional,4-7pm,7.94253e+17,-1,"Thurs, Nov 3 Product DEMO 4-7pm ~ @DrinkOrgain nutritional shake that's certified organic #nonGMO #glutenfree d"
+2622,0,protein,perfect,7.94191e+17,0,"Solutions4 Nutritional Shake is the perfect blend of protein, enzymes, vitamins and probiotics."
+2647,0,fan,cowboys,7.97157e+17,0,@PcxXxJonny: Not unless your a cowboys fan
+2682,0,feel,full,7.9706e+17,0,"Protein in the AM helps us feel full, so we eat less in the PM."
+2695,1,thing,funniest,7.96947e+17,1,La kids doing the mannequin challenge gotta be the funniest thing ever
+2743,0,kind,same,7.96829e+17,2,Not the same kind I have mesquite BBQ I normally don't like BBQ bit these are amazing hig...
+2745,1,breakfast,plant-strong,7.96827e+17,0,@JohnTesh @SlimFast Here's my plant-strong breakfast every morning!
+2770,32,feel,full,7.9676e+17,0,"Protein in the AM helps us feel full, so we eat less in the PM."
+2772,0,diet,heroin,7.96752e+17,2,"@damu1978: @mattpiper1981 and here we are only one year later after doing slimfast and heroin diet, me wearing same hat"
+2772,0,diet,slimfast,7.96752e+17,2,"@damu1978: @mattpiper1981 and here we are only one year later after doing slimfast and heroin diet, me wearing same hat"
+2773,6,diet,heroin,7.9675e+17,2,"@mattpiper1981 and here we are only one year later after doing slimfast and heroin diet, me wearing same hat"
+2773,6,diet,slimfast,7.9675e+17,2,"@mattpiper1981 and here we are only one year later after doing slimfast and heroin diet, me wearing same hat"
+2777,1,diet,slimfast,7.96731e+17,0,Being on the slimfast diet I can only eat one large meal.
+2777,1,meal,large,7.96731e+17,0,Being on the slimfast diet I can only eat one large meal.
+2812,2,stars,many,7.96583e+17,0,"""How many stars on the American flag?"""
+2830,10,type,not only,7.96464e+17,0,"When you type in ""snapchat not working"" to make sure yours is not the only one tripping"
+2830,10,working,snapchat,7.96464e+17,0,"When you type in ""snapchat not working"" to make sure yours is not the only one tripping"
+2855,0,bottle,half-empty,7.96411e+17,0,@craigshann I'm hiding under my desk with a half-empty bottle of white wine I stole from the office fridge (it was that or a Slimfast).
+2909,0,amount,ridiculous,7.96202e+17,0,Twitter needs to be like and detect plagiarism because the amount of stolen tweets on here is ridiculous
+2972,0,diet,#slimfast,7.96008e+17,0,"8.11.16 - day two of my #slimfast diet and still going strong, no urges yet."
+2974,0,diet,liquid,7.96006e+17,-3,"@NotARatsAss: This liquid diet of vodka, NyQuil, SlimFast, and tears is really working for me."
+2976,1,diet,#slimfast,7.96e+17,0,#slimfast diet 4 days I lost a whole pound!
+3027,0,thing,clich,7.95722e+17,0,Seeing an overweight person with a flat of slimfast in the checkout line is probably the most clich thing i've seen today
+3067,2,cream,sour,7.95415e+17,0,SlimFast has peanut butter chocolate bites & sour cream and onion chips and suddenly I'm rdy to go on a diet......
+3120,0,bar,slimfast,7.95205e+17,0,"i don't fascinate me, i'm just like, a slimfast bar for my soul."
+3121,0,powder,own,7.952e+17,1,@Morrisons does the kings Lynn branch stock the own brand slimfast type powder please?
+3135,4,diet,#slimfast,7.94936e+17,0,Day 2 of my #slimfast diet.
+3138,0,protein,special,7.94916e+17,0,I been drinking alot of special k protein shakes but I gave slimfast protein shake a try it is good too
+3138,0,protein,special,7.94916e+17,0,I been drinking alot of special k protein shakes but I gave slimfast protein shake a try it is good too
+3139,0,shop,More,7.94908e+17,0,More reason to shop at #HomeDepot!
+3140,0,drink,bring,7.949e+17,0,Can't bring myself to drink slimfast after it turned my sick pink
+3189,2,life,relevant,7.94712e+17,0,Drake's lyrics so relevant to my life
+3215,1,snack,#slimfast,7.94556e+17,3,Loving these #slimfast snack of 100 calorie cinnamon bun swirl crisps.
+3215,1,purchase,need,7.94556e+17,0,Think i need to buy more #weightloss #weightlossjourney
+3242,0,bottle,Herbalife,7.97221e+17,1,That Herbalife bottle in the 2nd frame is nice yazi
+3242,0,bottle,nice,7.97221e+17,1,That Herbalife bottle in the 2nd frame is nice yazi
+3272,0,protein,pancakes,7.97207e+17,0,@Herbalife: Power your pancakes with protein this morning #HerbalifeNutrition
+3283,1,people,nicest,7.97199e+17,1,Herbalife got the nicest people I've ever met.
+3296,0,products,Herbalife,7.97188e+17,0,@MichaelBaah_1: 300 scientists and 36 PHD's behind the creation Herbalife products.
+3314,0,pills,Herbalife,7.97181e+17,0,I have real estate in FL and some Herbalife pills that
+3315,3,pills,Herbalife,7.9718e+17,0,I have real estate in FL and some Herbalife pills that may interest you.
+3329,0,flavor,#HerbalifeShake,7.97175e+17,0,What #HerbalifeShake flavor did you have?
+3331,0,flavor,#HerbalifeShake,7.97175e+17,0,What #HerbalifeShake flavor did you have?
+3332,1,flavor,#HerbalifeShake,7.97175e+17,0,What #HerbalifeShake flavor did you have?
+3335,0,breakfast,healthy,7.97174e+17,-1,My healthy breakfast comes in the form of a Herbalife Chocolate Mint shake altogether with my 9
+3367,0,feeling,great,7.97163e+17,4,@CarreonLisa: Tummy felt flat feeling great & loving the process #herbalife #love U
+3367,0,feeling,flat,7.97163e+17,4,@CarreonLisa: Tummy felt flat feeling great & loving the process #herbalife #love U
+3382,3,feeling,great,7.97153e+17,4,Tummy felt flat feeling great & loving the process #herbalife #love U
+3382,3,feeling,flat,7.97153e+17,4,Tummy felt flat feeling great & loving the process #herbalife #love U
+3389,0,products,more,7.97149e+17,0,to learn more about the products or Herbalife
+3391,0,products,more,7.97149e+17,0,to learn more about the products or...
+3392,0,products,more,7.97149e+17,0,to learn more about the products or Herbalife dU

@@ -1,0 +1,40 @@
+Dependencies:
+
+sentiment_analysis.py: Contains code to calculate sentiment using SentiStrength
+	Dependencies: 
+		- SentiStrength (http://sentistrength.wlv.ac.uk/#Download)
+		- shlex
+		- subprocess
+		- os
+		- re
+
+opinion_aspect_analysis.py: Main. Tokenizes reviews, performs sentiment analysis, extracts aspect opinion pairs and organizes data into tabular format.
+	Dependencies:
+		- opinion_apsect_extraction.py
+		- sentiment_analysis.py
+		- pandas
+		- json
+		- csv
+		- product-features part3.csv
+
+opinion_aspect_extraction.py: Performs the aspect-opinion pair extraction
+	Dependencies:
+		- derived_word_forms.py
+		- stanford-corenlp-3.6.0.jar
+		- stanford-corenlp-full2015-12-09/stanford-corenlp-3.6.0-models.jar
+			http://stanfordnlp.github.io/CoreNLP/
+		- nltk
+
+derived_word_forms.py: Transforms words into different parts of speech. Ex: verbs into noun versions.
+	Dependencies:
+		- nltk
+
+clean_reviews_to_opinions.py: Find stem words and lemma words of extracted aspects and opinions in a dataset
+	Dependencies:
+		- opinion_aspect_extraction.py
+		- pandas
+		- numpy
+		- sys
+		- nltk
+
+aspect_opinion_analysis_commands.txt: Commands to run aspect-opinion analysis for different social media channels.

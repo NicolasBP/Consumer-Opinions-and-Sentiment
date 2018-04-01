@@ -1,0 +1,28 @@
+data.R: Defines training and validation data
+	Dependencies:
+		- reviews_to_opinions_clean.csv: Dataset containing aspect-opinion pairs from Amazon.com reviews
+
+frequent_itemset_test.R: Defines functions for association rule mining, clustering and bootstrapping
+	Dependencies:
+		- arules
+		- arulesViz
+		- boot
+		- data.R
+
+sample_clustering.R: Performs clustering using the specified number of clusters
+	Dependencies:
+		- frequent_itemset_test.R
+
+train.R: Finds support, confidence and lift using bootstrap.
+	Dependencies:
+		- ggplot2
+		- frequent_itemset_test.R
+
+validation.R: Performs k-fold cross validation to validate results
+	Dependencies:
+		- arules
+		- arulesViz
+		- ggplot2
+		- frequent_itemset_test.R
+
+aspect_opinion_clusters_2.csv: Dataset showing results of clustering

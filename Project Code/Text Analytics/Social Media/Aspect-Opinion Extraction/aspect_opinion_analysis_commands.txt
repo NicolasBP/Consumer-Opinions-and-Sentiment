@@ -1,0 +1,11 @@
+Twitter:
+python opinion_aspect_analysis.py ../Twitter/tweets ../Twitter/twitter_reviews_to_opinions product-features 100 text on tweet_id tweet_favorite_count
+
+Youtube:
+python opinion_aspect_analysis.py ../Youtube/youtube_comments ../Youtube/youtube_reviews_to_opinions product-features 100 comment_text on video_id likes
+
+Google Plus:
+python opinion_aspect_analysis.py ../Google_plus/google_plus_activity ../Google_plus/google_plus_reviews_to_opinions product-features 342 content on id plusoners title
+
+Clean dataset (example for Youtube):
+python clean_reviews_to_opinions.py youtube_reviews_to_opinions token feature opinion id
